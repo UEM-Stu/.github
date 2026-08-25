@@ -1,12 +1,12 @@
-# EMU-Stu
+# UEM-Stu
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EMU-Stu/EMU-Stu-Brand/main/assets/logos/emu-stu/logo.png" width="140" alt="EMU-Stu Logo"/>
+<img src="https://raw.githubusercontent.com/UEM-Stu/UEM-Stu-Brand/main/assets/logos/uem-stu/logo.png" width="140" alt="UEM-Stu Logo"/>
 
-[组织官网](https://emu-stu.github.io/) | [English](./README.en.md)
+[组织官网](https://uem-stu.github.io/) | [English](./README.en.md)
 
-[![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
+[![https://github.com/UEM-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FUEM-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FUEM-Stu)
 
 ### 面向实验室、开源项目与技术协作的学生组织
 
@@ -18,7 +18,7 @@
 
 ## 关于我们
 
-**EMU-Stu** 是一个由学生驱动的 GitHub 组织，专注于：
+**UEM-Stu** 是一个由学生驱动的 GitHub 组织，专注于：
 
 * 实验室协作
 * 开源项目建设
@@ -53,13 +53,13 @@
 
 ## 链接
 
-* 官网：[https://emu-stu.github.io/](https://emu-stu.github.io/)
+* 官网：[https://uem-stu.github.io/](https://uem-stu.github.io/)
 * 文档：_即将上线_
 
 ---
 
 <div align="center">
 
-由 EMU-Stu 用 ❤️ 制作
+由 UEM-Stu 用 ❤️ 制作
 
 </div>

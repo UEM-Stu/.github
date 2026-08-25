@@ -1,12 +1,12 @@
-# EMU-Stu
+# UEM-Stu
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EMU-Stu/EMU-Stu-Brand/main/assets/logos/emu-stu/logo.png" width="140" alt="EMU-Stu Logo"/>
+<img src="https://raw.githubusercontent.com/UEM-Stu/UEM-Stu-Brand/main/assets/logos/uem-stu/logo.png" width="140" alt="UEM-Stu Logo"/>
 
-[Organization Website](https://emu-stu.github.io/) | [简体中文](./README.md)
+[Organization Website](https://uem-stu.github.io/) | [简体中文](./README.md)
 
-[![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
+[![https://github.com/UEM-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FUEM-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FUEM-Stu)
 
 ### Student Organization for Labs, Open Source, and Technical Collaboration
 
@@ -18,7 +18,7 @@ Building projects, sharing ideas, and growing together.
 
 ## About
 
-**EMU-Stu** is a student-driven GitHub organization focused on:
+**UEM-Stu** is a student-driven GitHub organization focused on:
 
 * Laboratory collaboration
 * Open-source projects
@@ -52,13 +52,13 @@ We welcome:
 
 ## Links
 
-* Organization Portal: [https://emu-stu.github.io/](https://emu-stu.github.io/)
+* Organization Portal: [https://uem-stu.github.io/](https://uem-stu.github.io/)
 * Documentation: _Coming Soon_
 
 ---
 
 <div align="center">
 
-Made with ❤️ by EMU-Stu
+Made with ❤️ by UEM-Stu
 
 </div>
