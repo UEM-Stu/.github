@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EMU-Stu/EMU-Stu-Brand/main/assets/logos/emu-stu/logo.png" width="140" alt="EMU-Stu Logo"/>
+<img src="https://raw.githubusercontent.com/EMU-Stu/EMU-Stu-Brand/main/assets/logos/uem-stu/UEM_Student_Organization.svg" width="140" alt="EMU-Stu Logo"/>
 
-[组织官网](https://emu-stu.github.io/) | [English](./README.en.md)
-
-[![https://github.com/EMU-Stu](https://visit.futseyi.com/api/combined?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)](https://visit.futseyi.com/status?path=https%3A%2F%2Fgithub.com%2FEMU-Stu)
+[组织官网](https://uem-stu.github.io/) | [English](./README.en.md)
 
 ### 面向实验室、开源项目与技术协作的学生组织
 
